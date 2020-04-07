@@ -1,0 +1,15 @@
+C:\Users\Visitor\Documents\Web Development\WPS\WPS.WF\bin\Debug\WPS.WF.dll
+C:\Users\Visitor\Documents\Web Development\WPS\WPS.WF\bin\Debug\WPS.WF.pdb
+C:\Users\Visitor\Documents\Web Development\WPS\WPS.WF\obj\Debug\WPS.WF.csprojAssemblyReference.cache
+C:\Users\Visitor\Documents\Web Development\WPS\WPS.WF\obj\Debug\WPS.WF.csproj.CoreCompileInputs.cache
+C:\Users\Visitor\Documents\Web Development\WPS\WPS.WF\obj\Debug\WPS.WF.dll
+C:\Users\Visitor\Documents\Web Development\WPS\WPS.WF\obj\Debug\WPS.WF.pdb
+E:\2020-development\workfow_2_14\WPS\WPS.WF\bin\Debug\WPS.WF.dll
+E:\2020-development\workfow_2_14\WPS\WPS.WF\bin\Debug\WPS.WF.pdb
+E:\2020-development\workfow_2_14\WPS\WPS.WF\bin\Debug\Stateless.dll
+E:\2020-development\workfow_2_14\WPS\WPS.WF\bin\Debug\Stateless.xml
+E:\2020-development\workfow_2_14\WPS\WPS.WF\obj\Debug\WPS.WF.csprojAssemblyReference.cache
+E:\2020-development\workfow_2_14\WPS\WPS.WF\obj\Debug\WPS.WF.csproj.CopyComplete
+E:\2020-development\workfow_2_14\WPS\WPS.WF\obj\Debug\WPS.WF.dll
+E:\2020-development\workfow_2_14\WPS\WPS.WF\obj\Debug\WPS.WF.pdb
+E:\2020-development\workfow_2_14\WPS\WPS.WF\bin\Debug\EASendMail.dll
